@@ -12,6 +12,7 @@ package ca.sheridancollege.softwarefundamentals.week1;
  */
 public class Student 
 {
+    // add this line as a change
     private String name;
     private String studentID;
     private String program;
